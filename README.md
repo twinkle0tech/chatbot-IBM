@@ -1,91 +1,77 @@
-🎓 My University Website
+# 🎓 My University Website
 
-A simple and responsive University Website built using HTML, CSS, and JavaScript, integrated with IBM Watson Assistant for real-time chatbot support.
+A simple and responsive University Website created using HTML, CSS, and JavaScript, with an integrated IBM Watson Assistant chatbot for real-time user interaction.
 
-📌 Project Overview
+---
 
-This project represents a university’s official website that provides information about:
+## 📌 Project Description
 
-University details
+The **My University Website** is a basic academic web project designed to represent a university’s official website. It provides information about the university, available courses, and allows users to contact the institution through a form. An AI-powered chatbot is integrated to assist users with their queries.
 
-Courses offered
+---
 
-Contact form for user queries
+## 🛠️ Technologies Used
 
-AI-powered chatbot using IBM Watson Assistant
+- HTML5 – Website structure  
+- CSS3 – Styling and layout  
+- JavaScript – Form handling and interactivity  
+- IBM Watson Assistant – Chatbot integration  
 
-The website is lightweight, beginner-friendly, and suitable for academic projects.
+---
 
-🛠️ Technologies Used
-
-HTML5 – Structure of the website
-
-CSS3 – Styling and layout
-
-JavaScript – Interactivity and form handling
-
-IBM Watson Assistant – Chatbot integration
-
-📂 Project Structure
-My-University-Website/
+## 📂 Project Structure
 │
-├── index.html        # Main HTML file
-├── style.css         # CSS for styling
-├── script.js         # JavaScript functionality
-├── README.md         # Project documentation
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 
-✨ Features
+---
 
-Responsive navigation bar
+## ✨ Features
 
-Informative sections (Home, About, Courses, Contact)
+- Clean and responsive user interface  
+- Navigation menu with smooth sections  
+- Informational sections (Home, About, Courses, Contact)  
+- Contact form with input validation  
+- Integrated AI chatbot using IBM Watson Assistant  
 
-Contact form with input validation
+---
 
-Integrated AI Chatbot for student support
+## 🤖 IBM Watson Assistant Integration
 
-Clean and user-friendly UI
+The chatbot is embedded using IBM Watson Assistant Web Chat.  
+It is configured using:
+- Integration ID  
+- Service Instance ID  
+- Region settings  
 
-🤖 IBM Watson Assistant Integration
+The chatbot loads automatically when the website is opened.
 
-The chatbot is embedded using IBM Watson Assistant Web Chat with:
+---
 
-Integration ID
+## 🚀 How to Run the Project
 
-Service Instance ID
+1. Clone or download this repository  
+2. Ensure all files are in the same folder  
+3. Open `index.html` in any web browser  
+4. Internet connection is required for the chatbot to work  
 
-Region configuration
+---
 
-This allows users to interact with the chatbot directly on the website.
+## 📌 Use Case
 
-🚀 How to Run the Project
+- College mini project  
+- Web development practice  
+- Demonstration of AI chatbot integration  
+- Beginner-friendly academic website  
 
-Download or clone the repository
+---
 
-Open index.html in any modern web browser
+## 👩‍💻 Author
 
-Make sure style.css and script.js are in the same folder
+**Muskan Tamang**  
+BCA Student  
 
-Internet connection is required for Watson Assistant chatbot
+---
 
-![Uploading image.png…]()
-
-
-A simple university landing page with navigation, course details, contact form, and chatbot support.
-
-📌 Future Enhancements
-
-Backend integration for contact form
-
-Database connectivity
-
-Admin panel
-
-Improved UI with animations
-
-Mobile-first design improvements
-
-👩‍💻 Author
-
-Muskan Tamang
-BCA Student
