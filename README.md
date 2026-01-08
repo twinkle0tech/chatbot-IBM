@@ -27,7 +27,10 @@ The **My University Website** is a basic academic web project designed to repres
 └── README.md
 
 ---
+## ✨ Preview
+<img width="1845" height="920" alt="Screenshot 2026-01-07 183458" src="https://github.com/user-attachments/assets/7a4651bb-3e94-4ffd-8c6b-ab2e1f0bafcf" />
 
+---
 ## ✨ Features
 
 - Clean and responsive user interface  
